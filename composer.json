@@ -1,6 +1,6 @@
 {
-    "name": "nicolasdewez/application-console-bundle",
-    "description": "This bundle provides use console application",
+    "name": "nicolasdewez/application-console",
+    "description": "This library provides use console application",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
